@@ -162,7 +162,7 @@ function updateWelcomeTitle(subject) {
         default:
             subjectName = "KS3";
     }
-    welcomeTitle.textContent = `Welcome to Year 9 ${subjectName} Quiz`;
+    welcomeTitle.textContent = `Welcome to Year 8 ${subjectName} Quiz`;
 }
 
 // Load quiz for selected subject and date
