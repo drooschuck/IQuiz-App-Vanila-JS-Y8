@@ -1,118 +1,61 @@
-
-export let quizSubject = "PT1 - Diverse Shorts";
+export const quizSubject = "Unit 1 - Shakespeare Tragedy: ‘Macbeth’";
 
 let questions = [
-    {
-      numb: 1,
-      question: "What is the primary purpose of exploratory writing?",
-      answer: "To investigate and reflect on a topic",
-      options: [
-        "To persuade the reader",
-        "To investigate and reflect on a topic",
-        "To summarize information",
-        "To entertain the reader"
-      ]
-    },
-    {
-      numb: 2,
-      question: "When analyzing a writer's methods, what should you focus on?",
-      answer: "Language, structure, and techniques used",
-      options: [
-        "Only the plot",
-        "Language, structure, and techniques used",
-        "Character development",
-        "Historical context"
-      ]
-    },
-    {
-      numb: 3,
-      question: "What is an analytical paragraph?",
-      answer: "A paragraph that explains and evaluates a specific point",
-      options: [
-        "A summary of the text",
-        "A paragraph that explains and evaluates a specific point",
-        "A personal opinion piece",
-        "A narrative description"
-      ]
-    },
-    {
-      numb: 4,
-      question: "In English Language Paper 1, what is essential to analyze?",
-      answer: "Language and structure of the text",
-      options: [
-        "Only the characters",
-        "Language and structure of the text",
-        "The author's biography",
-        "The publication date"
-      ]
-    },
-    {
-      numb: 5,
-      question: "What does literal comprehension involve?",
-      answer: "Understanding the explicit meaning of the text",
-      options: [
-        "Understanding the explicit meaning of the text",
-        "Reading between the lines",
-        "Inferring the author's intentions",
-        "Evaluating the text's themes"
-      ]
-    },
-    {
-      numb: 6,
-      question: "What is inferential comprehension?",
-      answer: "Reading between the lines to understand deeper meanings",
-      options: [
-        "Summarizing the text",
-        "Reading between the lines to understand deeper meanings",
-        "Identifying the main idea",
-        "Memorizing the text"
-      ]
-    },
-    {
-      numb: 7,
-      question: "What is authorial intention?",
-      answer: "The purpose or message the author wants to convey",
-      options: [
-        "The author's background",
-        "The purpose or message the author wants to convey",
-        "The genre of the text",
-        "The length of the text"
-      ]
-    },
-    {
-      numb: 8,
-      question: "How can vocabulary choice affect a text?",
-      answer: "It influences the tone and meaning of the text",
-      options: [
-        "It has no effect",
-        "It influences the tone and meaning of the text",
-        "It only affects the length",
-        "It determines the genre"
-      ]
-    },
-    {
-      numb: 9,
-      question: "What historical context is important when analyzing texts from the 1950s America?",
-      answer: "Immigration and social change",
-      options: [
-        "Fashion trends",
-        "Immigration and social change",
-        "Technological advancements",
-        "Sports events"
-      ]
-    },
-    {
-      numb: 10,
-      question: "What is a successful extended analytical paragraph expected to include?",
-      answer: "A clear point, evidence, and analysis",
-      options: [
-        "A summary of the text",
-        "A clear point, evidence, and analysis",
-        "Only personal opinions",
-        "A list of facts"
-      ]
-    }
-  ];
-  
-  export { questions }; 
-  
+  {
+    "numb": 1,
+    "question": "In the context of 17th-century beliefs, how did Macbeth's murder of King Duncan challenge the concept of the Divine Right of Kings?",
+    "answer": "It implied that kings were not appointed by God and thus could be overthrown by human will.",
+    "options": [
+      "It showed that kings could be chosen by popular vote.",
+      "It implied that kings were not appointed by God and thus could be overthrown by human will.",
+      "It demonstrated the superiority of military power over inherited rule.",
+      "It suggested that a king's lineage was less important than his personal qualities."
+    ]
+  },
+  {
+    "numb": 2,
+    "question": "What is the primary function of the Witches' prophecies in the play 'Macbeth'?",
+    "answer": "To awaken and fuel Macbeth's existing ambition, setting him on a tragic path.",
+    "options": [
+      "To directly force Macbeth to commit regicide.",
+      "To provide comic relief and lighten the play's mood.",
+      "To awaken and fuel Macbeth's existing ambition, setting him on a tragic path.",
+      "To warn King Duncan of an impending betrayal."
+    ]
+  },
+  {
+    "numb": 3,
+    "question": "Lady Macbeth's initial characterization as a strong, manipulative force who urges her husband to commit regicide reflects what about Jacobean attitudes towards powerful women?",
+    "answer": "That powerful women were often seen as unnatural or dangerous, challenging societal norms.",
+    "options": [
+      "That women were expected to be subservient to their husbands.",
+      "That powerful women were often seen as unnatural or dangerous, challenging societal norms.",
+      "That women were encouraged to take active roles in political affairs.",
+      "That women could achieve power through their intellect and persuasion."
+    ]
+  },
+  {
+    "numb": 4,
+    "question": "Which of the following best describes the core motivation that drives Macbeth to initially consider and then commit the murder of King Duncan?",
+    "answer": "Insatiable ambition, ignited by the Witches' prophecies.",
+    "options": [
+      "A desire to avenge a personal slight against his family.",
+      "Pure loyalty to Lady Macbeth's demands.",
+      "Insatiable ambition, ignited by the Witches' prophecies.",
+      "A belief that Duncan was an unfit ruler for Scotland."
+    ]
+  },
+  {
+    "numb": 5,
+    "question": "By the end of 'Macbeth', what is the play's ultimate message regarding the prosperity of evil and the concept of good versus evil?",
+    "answer": "While evil may temporarily triumph, it ultimately leads to destruction and suffering, affirming the triumph of good.",
+    "options": [
+      "Evil deeds are often rewarded with lasting power and happiness.",
+      "While evil may temporarily triumph, it ultimately leads to destruction and suffering, affirming the triumph of good.",
+      "The distinction between good and evil is entirely subjective and irrelevant.",
+      "Good and evil forces are equally balanced, resulting in a continuous, unresolved struggle."
+    ]
+  }
+];
+
+export { questions };

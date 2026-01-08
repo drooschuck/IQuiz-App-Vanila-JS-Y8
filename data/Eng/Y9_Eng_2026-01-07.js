@@ -1,116 +1,116 @@
-export let quizSubject = "PT3 - The Poet X";
+export const quizSubject = "Unit 3&6 - Identity poetry - The Art of Rhetoric";
 
 let questions = [
-    {
-        numb: 1,
-        question: "What is a key characteristic of free verse poetry?",
-        answer: "It does not adhere to a specific rhyme scheme or meter.",
-        options: [
-            "It follows a strict rhyme scheme.",
-            "It uses a consistent meter throughout.",
-            "It does not adhere to a specific rhyme scheme or meter.",
-            "It is always written in stanzas of four lines."
-        ]
-    },
-    {
-        numb: 2,
-        question: "How does Xiomara's use of free verse reflect her personal struggles?",
-        answer: "It allows her to express her emotions authentically and without constraints.",
-        options: [
-            "It makes her poetry less impactful.",
-            "It allows her to express her emotions authentically and without constraints.",
-            "It limits her ability to convey her thoughts.",
-            "It focuses solely on rhyme and rhythm."
-        ]
-    },
-    {
-        numb: 3,
-        question: "Which poetic method does Xiomara frequently use to convey her feelings?",
-        answer: "Imagery",
-        options: [
-            "Alliteration",
-            "Imagery",
-            "Personification",
-            "Simile"
-        ]
-    },
-    {
-        numb: 4,
-        question: "What effect does the use of repetition have in Xiomara's poetry?",
-        answer: "It emphasizes her emotions and key themes.",
-        options: [
-            "It makes the poem longer.",
-            "It emphasizes her emotions and key themes.",
-            "It confuses the reader.",
-            "It serves no significant purpose."
-        ]
-    },
-    {
-        numb: 5,
-        question: "How does the structure of Xiomara's poems contribute to their meaning?",
-        answer: "The varied line lengths reflect her emotional state and the chaos in her life.",
-        options: [
-            "The structure is irrelevant to the meaning.",
-            "The varied line lengths reflect her emotional state and the chaos in her life.",
-            "All poems must have the same structure.",
-            "The structure is always consistent."
-        ]
-    },
-    {
-        numb: 6,
-        question: "What is one benefit of writing poetry in free verse as demonstrated in 'The Poet X'?",
-        answer: "It allows for greater freedom of expression.",
-        options: [
-            "It restricts creativity.",
-            "It allows for greater freedom of expression.",
-            "It requires strict adherence to form.",
-            "It is less personal than structured poetry."
-        ]
-    },
-    {
-        numb: 7,
-        question: "Which theme is prominently explored through Xiomara's poetry?",
-        answer: "Identity and self-acceptance",
-        options: [
-            "Adventure and exploration",
-            "Identity and self-acceptance",
-            "Historical events",
-            "Nature and the environment"
-        ]
-    },
-    {
-        numb: 8,
-        question: "What role does performance play in Xiomara's poetry?",
-        answer: "It brings her words to life and connects her with her audience.",
-        options: [
-            "It is not important.",
-            "It brings her words to life and connects her with her audience.",
-            "It distracts from the written word.",
-            "It is only for entertainment."
-        ]
-    },
-    {
-        numb: 9,
-        question: "How can readers create their own performance poetry inspired by 'The Poet X'?",
-        answer: "By exploring their own emotions and experiences through free verse.",
-        options: [
-            "By copying Xiomara's style exactly.",
-            "By exploring their own emotions and experiences through free verse.",
-            "By using only traditional forms.",
-            "By avoiding personal themes."
-        ]
-    },
-    {
-        numb: 10,
-        question: "What is the significance of the title 'The Poet X'?",
-        answer: "It represents Xiomara's identity as a poet and her unique voice.",
-        options: [
-            "It refers to a mathematical concept.",
-            "It represents Xiomara's identity as a poet and her unique voice.",
-            "It is a random title.",
-            "It signifies a group of poets."
-        ]
-    }
-]
+  {
+    "numb": 1,
+    "question": "Which rhetorical appeal primarily focuses on establishing the speaker's credibility and trustworthiness?",
+    "answer": "Ethos",
+    "options": [
+      "Pathos",
+      "Logos",
+      "Ethos",
+      "Kairos"
+    ]
+  },
+  {
+    "numb": 2,
+    "question": "Sojourner Truth's famous speech, 'Ain't I a Woman?', delivered at the 1851 Women's Rights Convention, primarily uses which rhetorical strategy to challenge prevailing notions of gender and race?",
+    "answer": "Personal anecdotes and direct questions",
+    "options": [
+      "Complex statistical data",
+      "Quotes from ancient philosophers",
+      "Personal anecdotes and direct questions",
+      "Highly academic language"
+    ]
+  },
+  {
+    "numb": 3,
+    "question": "Malala Yousafzai's advocacy for education, as exemplified in her speech to the United Nations, is a powerful modern example of rhetoric used to champion which fundamental human right?",
+    "answer": "The right to education",
+    "options": [
+      "The right to property ownership",
+      "The right to vote",
+      "The right to equal representation in government",
+      "The right to education"
+    ]
+  },
+  {
+    "numb": 4,
+    "question": "When a speaker uses vivid language to evoke strong emotions in their audience, they are primarily employing which rhetorical appeal?",
+    "answer": "Pathos",
+    "options": [
+      "Ethos",
+      "Logos",
+      "Pathos",
+      "Diction"
+    ]
+  },
+  {
+    "numb": 5,
+    "question": "Many speeches by prominent women throughout history, such as those by Emmeline Pankhurst or Susan B. Anthony, often utilized rhetoric to argue for which of the following?",
+    "answer": "Women's suffrage",
+    "options": [
+      "The abolition of monarchy",
+      "The expansion of colonial empires",
+      "Women's suffrage",
+      "Universal military conscription"
+    ]
+  },
+ {
+    "numb": 6,
+    "question": "Which poetic device involves the repetition of initial consonant sounds in words that are close together?",
+    "answer": "Alliteration",
+    "options": [
+      "Metaphor",
+      "Assonance",
+      "Alliteration",
+      "Hyperbole"
+    ]
+  },
+  {
+    "numb": 7,
+    "question": "When analyzing the 'structure' of a poem, which element would you primarily consider?",
+    "answer": "The rhyme scheme and stanza breaks",
+    "options": [
+      "The poet's biography",
+      "The rhyme scheme and stanza breaks",
+      "The historical context",
+      "The sound of individual words"
+    ]
+  },
+  {
+    "numb": 8,
+    "question": "Understanding the 'background context' of a contemporary poem helps a reader to:",
+    "answer": "Grasp the social, political, or personal influences on the poet's work",
+    "options": [
+      "Memorize the poem more easily",
+      "Identify the poem's genre without reading it",
+      "Grasp the social, political, or personal influences on the poet's work",
+      "Change the poem's original meaning"
+    ]
+  },
+  {
+    "numb": 9,
+    "question": "Which of the following best describes the skill of 'evaluating poetic methods'?",
+    "answer": "Assessing how effectively poetic devices contribute to the poem's meaning or impact",
+    "options": [
+      "Counting the number of lines in a poem",
+      "Identifying every single word's part of speech",
+      "Assessing how effectively poetic devices contribute to the poem's meaning or impact",
+      "Rewriting the poem in prose"
+    ]
+  },
+  {
+    "numb": 10,
+    "question": "The emphasis on 'hearing voices from a variety of demographics and backgrounds' in poetry encourages readers to:",
+    "answer": "Develop empathy and appreciate diverse perspectives",
+    "options": [
+      "Focus solely on classical poetry",
+      "Ignore the author's background",
+      "Develop empathy and appreciate diverse perspectives",
+      "Seek out only poems that align with their own experiences"
+    ]
+  }
+];
 
 export { questions };

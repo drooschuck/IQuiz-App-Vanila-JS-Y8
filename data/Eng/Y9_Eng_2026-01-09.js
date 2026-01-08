@@ -1,116 +1,61 @@
-export let quizSubject = "PT5 - Identity Projects & Othello";
+export const quizSubject = "Unit 5 - Chinese Cinderella";
 
 let questions = [
-    {
-        numb: 1,
-        question: "What is a key theme explored in both 'Identity Projects' and 'Othello'?",
-        answer: "The complexity of identity and its impact on relationships.",
-        options: [
-            "The importance of wealth and power.",
-            "The complexity of identity and its impact on relationships.",
-            "The role of fate in human life.",
-            "The significance of family ties."
-        ]
-    },
-    {
-        numb: 2,
-        question: "How does Shakespeare use language to convey Othello's internal conflict?",
-        answer: "Through soliloquies that reveal his thoughts and emotions.",
-        options: [
-            "By using simple dialogue.",
-            "Through soliloquies that reveal his thoughts and emotions.",
-            "By avoiding emotional language.",
-            "Through the use of humor."
-        ]
-    },
-    {
-        numb: 3,
-        question: "What persuasive method is commonly used in non-fiction creative writing?",
-        answer: "Anecdotes to connect with the audience emotionally.",
-        options: [
-            "Statistics to provide factual evidence.",
-            "Anecdotes to connect with the audience emotionally.",
-            "Complex jargon to impress the reader.",
-            "Rhetorical questions to confuse the audience."
-        ]
-    },
-    {
-        numb: 4,
-        question: "What is the significance of the character Iago in 'Othello'?",
-        answer: "He represents manipulation and the darker aspects of human nature.",
-        options: [
-            "He is a comic relief character.",
-            "He represents manipulation and the darker aspects of human nature.",
-            "He is a loyal friend to Othello.",
-            "He has no significant role."
-        ]
-    },
-    {
-        numb: 5,
-        question: "How does the structure of 'Othello' contribute to its themes?",
-        answer: "The five-act structure builds tension and highlights the tragic downfall.",
-        options: [
-            "It is irrelevant to the themes.",
-            "The five-act structure builds tension and highlights the tragic downfall.",
-            "It simplifies the narrative.",
-            "It focuses solely on comic elements."
-        ]
-    },
-    {
-        numb: 6,
-        question: "What can be inferred about the authorial intention behind the portrayal of Othello's character?",
-        answer: "To challenge societal perceptions of race and identity.",
-        options: [
-            "To glorify war and violence.",
-            "To challenge societal perceptions of race and identity.",
-            "To depict love as a simple emotion.",
-            "To create a purely tragic hero."
-        ]
-    },
-    {
-        numb: 7,
-        question: "Which persuasive technique is effective in addressing 21st-century issues in creative writing?",
-        answer: "Emotional appeals that resonate with contemporary audiences.",
-        options: [
-            "Complex vocabulary that alienates readers.",
-            "Emotional appeals that resonate with contemporary audiences.",
-            "Overly technical language.",
-            "Ignoring current events."
-        ]
-    },
-    {
-        numb: 8,
-        question: "How does Shakespeare's use of dramatic irony enhance the tragedy of 'Othello'?",
-        answer: "It creates tension as the audience knows more than the characters.",
-        options: [
-            "It makes the plot predictable.",
-            "It creates tension as the audience knows more than the characters.",
-            "It serves no real purpose.",
-            "It adds humor to the play."
-        ]
-    },
-    {
-        numb: 9,
-        question: "What role does setting play in shaping the identity of characters in 'Othello'?",
-        answer: "It reflects societal attitudes and influences character behavior.",
-        options: [
-            "It is irrelevant to character development.",
-            "It reflects societal attitudes and influences character behavior.",
-            "It only serves as a backdrop.",
-            "It simplifies the plot."
-        ]
-    },
-    {
-        numb: 10,
-        question: "What is one benefit of using a range of persuasive methods in non-fiction writing?",
-        answer: "It engages a wider audience and strengthens the argument.",
-        options: [
-            "It confuses the reader.",
-            "It engages a wider audience and strengthens the argument.",
-            "It makes the writing longer.",
-            "It limits the writer's creativity."
-        ]
-    }
-]
+  {
+    "numb": 1,
+    "question": "Which significant historical event greatly impacted China in the mid-20th century, creating widespread societal changes that would influence families like the one depicted in 'Chinese Cinderella'?",
+    "answer": "The Chinese Civil War",
+    "options": [
+      "The Opium Wars",
+      "The Cultural Revolution",
+      "The Boxer Rebellion",
+      "The Chinese Civil War"
+    ]
+  },
+  {
+    "numb": 2,
+    "question": "In traditional Chinese families, particularly during the period depicted in 'Chinese Cinderella,' what was a fundamental virtue emphasizing deep respect and obedience towards elders and ancestors?",
+    "answer": "Filial piety",
+    "options": [
+      "Individualism",
+      "Self-expression",
+      "Filial piety",
+      "Egalitarianism"
+    ]
+  },
+  {
+    "numb": 3,
+    "question": "In literary fiction, such as 'Chinese Cinderella,' what does the term 'character arc' primarily refer to?",
+    "answer": "The transformation or development a character undergoes over the course of the narrative.",
+    "options": [
+      "The physical journey a character undertakes throughout the story.",
+      "The sequence of events that happen to the main character.",
+      "The transformation or development a character undergoes over the course of the narrative.",
+      "The author's writing style and choice of words."
+    ]
+  },
+  {
+    "numb": 4,
+    "question": "When analyzing 'Chinese Cinderella,' understanding Adeline Yen Mah's personal experiences as the author is crucial for what reason?",
+    "answer": "It allows readers to fully grasp the autobiographical nature and emotional truth of the narrative.",
+    "options": [
+      "It helps predict the book's sales success.",
+      "It allows readers to fully grasp the autobiographical nature and emotional truth of the narrative.",
+      "It is irrelevant to literary analysis.",
+      "It provides a complete history of 20th-century China."
+    ]
+  },
+  {
+    "numb": 5,
+    "question": "'Chinese Cinderella' is significant for exploring power dynamics within a family and society. What key insight can be gained from hearing voices from a range of backgrounds, like Adeline Yen Mah's?",
+    "answer": "That personal narratives can illuminate broader societal injustices and cultural norms.",
+    "options": [
+      "That only stories of the powerful are truly important.",
+      "That personal narratives can illuminate broader societal injustices and cultural norms.",
+      "That family struggles are unique to every culture and cannot be compared.",
+      "That authors should only write about fictional scenarios."
+    ]
+  }
+];
 
 export { questions };
